@@ -1,3 +1,2 @@
 Querido diario: Hoy ha sido un dia tranquilo
 Querido diario: Hoy aprendi ha usar git
-Querido diario: He reflexiado no de git hoy
